@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
+
+* , html , body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Rubik 80s Fade", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+}
+
+/* section -1 */
+
+.title-1{
+    color: white;
+    width: 50%;
+    padding: 10% 10%;
+}
+.title-1 h1{
+    font-size: 200%;
+}
+.title-1 p{
+    font-size: 600%;
+    margin-top: 3%;
+}
+.title-1 h6{
+    font-size: 500%;
+    margin-top: 3%;
+}
+.image-1{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    margin-top: -45%;
+    padding: 5% 10%;
+}
+.image-1 img{
+    width: 30%;
+    height: 30%;
+}
+.image-1 button{
+    width: 30%;
+    height: 40px;
+    font-family: "Rubik 80s Fade", serif;
+    font-weight: 800;
+    background-color: black;
+    color: white;
+    border: 1px white solid;
+    border-radius: 50px;
+    margin-top: 2%;
+    cursor: pointer;
+}
+.image-1 button:hover{
+    background-color: white;
+    color: black;
+}
+
+/* section -2 */
+
+.title-2{
+    display: flex;
+    justify-content: center;
+    gap: 35%;
+    color: white;
+    font-size: 200%;
+    margin-top: 10%;
+}
+.title-2 img{
+    width: 30%;
+    height: 30%;
+}
+.desc-2{
+    font-size: 400%;
+    color: white;
+    font-weight: 550;
+    margin-top: 5%;
+    padding: 5% 10%;
+}
+.small-desc-2{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 5%;
+}
+.card-2{
+    width: 30%;
+    height: 100px;
+    border: 1px white solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-2 p{
+    color: white;
+    font-weight: 700;
+    font-size: 150%;
+}
+.card-2 button{
+    width: 120%;
+    height: 40px;
+    font-family: "Rubik 80s Fade", serif;
+    font-weight: 1000;
+    font-size: 80%;
+}
