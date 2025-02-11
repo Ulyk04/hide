@@ -141,6 +141,20 @@ video{
     margin-top: -15%;
 }
 
+.hiddenx{
+    opacity: 0;
+    transform: translateY(-50%);
+    transition: opacity 1.8s ease , transform tranlateY(0) ease;
+}
+
+.hidden{
+    opacity: 0;
+    transition: opacity 1.8s ease;
+}
+.visible{
+    opacity: 1;
+}
+
 /*--------------------------------------------------*/
 
 @media(max-width:765px){
