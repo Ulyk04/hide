@@ -3,7 +3,7 @@
 **HIDE** This site was developed simply for entertainment and does not convey any meaning
 
 ## 🚀 [View Live Website]
-https://ulyk04.github.io/vardhaman/
+ https://ulyk04.github.io/hide/
 
 ---
 
